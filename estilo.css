@@ -1,0 +1,163 @@
+*{
+	padding: 0;
+	magin: 0;
+}
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  background-color: black;
+  color: #CFCECE;
+  padding: 10px;
+  margin-top: -40px; 
+}
+nav ul {
+	background-color: #white;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li {
+	display: inline-flex;
+}
+
+nav a{
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	width: 150px;
+}
+nav li:hover {
+	background-color: black;
+}
+body{
+  background-color: #000000;
+}
+.imagen-centrada {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  
+}
+h3{
+	 color: red;
+right: 50;
+text-align: left;
+ font-size: 44px; 
+
+}
+p1{
+	
+	right: 50;
+	text-align: right;
+  background-color: black;
+  color: #ECECEC;
+  font-family: 'Amasis MT Pro Black', sans-serif;
+  src: url('AmasisMTProBlack.woff2') format('woff2'),
+       url('AmasisMTProBlack.woff') format('woff');
+  font-size: 24px;
+}
+
+h4{
+	 color: #BF9BCD;
+
+right: 50;
+text-align: center;
+ font-size: 60px; 
+margin-top: -100px;
+}
+h5{
+	 color: #E5E5E5;
+
+right: 35;
+text-align: center;
+ font-size: 60px; 
+ 
+
+margin-top: -50px;
+}
+h6{
+	 color: #E5E5E5;
+
+right: 35;
+text-align: center;
+ font-size: 60px; 
+margin-top: 700px;
+}
+p5{
+	center: 100;
+	text-align: right;
+  background-color: black;
+  color: white;
+   font-size: 40px; 
+ 
+margin-top: -700px;
+
+}
+p2{
+	
+	right: 100;
+	text-align: left;
+  background-color: black;
+  color: white;
+   font-size: 40px; 
+  
+}
+p3{
+	
+	right: 100;
+	text-align: right;
+  background-color: black;
+  color: white;
+   font-size: 40px; 
+ 
+}
+p4{color: #E5E5E5;
+  text-align: left;
+  font-size: 40px;
+  position: absolute;
+  top: 420%; /* Adjust as needed to move it further below */
+  left: 33%; /* Center horizontally */
+  transform: translateX(-51%);}
+
+h7 {
+   color: #E5E5E5;
+  text-align: center;
+  font-size: 60px;
+  position: absolute;
+  top: 400%; /* Places h7 at the bottom of the image */
+  left: 50%; /* Centers h7 horizontally */
+  transform: translateX(-50%);
+}
+h8{
+ color: red;
+  text-align: center;
+  font-size: 70px;
+  position: absolute;
+  top: 489%; /* Ajusta según sea necesario para colocar h8 debajo de h7 */
+  left: 50%; /* Centra h8 horizontalmente */
+  transform: translateX(-50%);
+}
+p9 {
+    position: relative;
+    right: 0px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    top: 100px; /* Ajusta este valor según sea necesario */
+}
+p10{color: #E5E5E5;
+  text-align: left;
+  font-size: 40px;
+  position: absolute;
+  top: 425%; /* Adjust as needed to move it further below */
+  left: 25%; /* Center horizontally */
+  transform: translateX(-51%);}
